@@ -40,6 +40,9 @@
     },
     "app" : {
       "mode_off_version" : "0"
+    },
+    "timeout":{
+      "splash": 3000 
     }
   },
   "items" : [
@@ -75,7 +78,7 @@
     {
       "id" : 4,
       "image" : "https://github.com/medprogrammer/configs/blob/main/Webp.net-compress-image.jpg?raw=true",
-      "state" : "free",
+      "state" : "free",)
       "title" : "Test title 4"
 
     },
