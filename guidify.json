@@ -59,7 +59,7 @@
         "timeout": 5000
       },
       "start": {
-        "enable": false,
+        "enable": true,
         "repeat": 1
       },
       "list": {
