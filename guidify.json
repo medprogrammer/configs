@@ -60,7 +60,7 @@
       },
       "start": {
         "enable": true,
-        "repeat": 1
+        "repeat": 2
       },
       "list": {
         "_comment": "type = image, text, card",
